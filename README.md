@@ -24,7 +24,8 @@ Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
 ```
-To write a python program for multiplying two matrix.
+Python program for getting the word count from the contents of a file using command line
+arguments.com
 Developed by: Vaishnavi M
 Register no: 21500310
 
